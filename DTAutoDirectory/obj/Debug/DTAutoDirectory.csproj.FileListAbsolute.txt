@@ -8,3 +8,13 @@ C:\Users\gregorymoon\Documents\Visual Studio 2013\Projects\DTAutoDirectory\DTAut
 C:\Users\gregorymoon\Documents\Visual Studio 2013\Projects\DTAutoDirectory\DTAutoDirectory\obj\Debug\DTAutoDirectory.exe
 C:\Users\gregorymoon\Documents\Visual Studio 2013\Projects\DTAutoDirectory\DTAutoDirectory\obj\Debug\DTAutoDirectory.pdb
 C:\Users\gregorymoon\Documents\Visual Studio 2013\Projects\DTAutoDirectory\DTAutoDirectory\bin\Debug\Supporting_Files\blank_database.mdb
+C:\Users\gregorymoon\Documents\Work\DT\Mapstory\DTAutoDirectory\DTAutoDirectory\bin\Debug\DTAutoDirectory.exe.config
+C:\Users\gregorymoon\Documents\Work\DT\Mapstory\DTAutoDirectory\DTAutoDirectory\obj\Debug\DTAutoDirectory.exe
+C:\Users\gregorymoon\Documents\Work\DT\Mapstory\DTAutoDirectory\DTAutoDirectory\obj\Debug\DTAutoDirectory.pdb
+C:\Users\gregorymoon\Documents\Work\DT\Mapstory\DTAutoDirectory\DTAutoDirectory\bin\Debug\Supporting_Files\blank_database.mdb
+C:\Users\gregorymoon\Documents\Work\DT\Mapstory\DTAutoDirectory\DTAutoDirectory\bin\Debug\DTAutoDirectory.exe
+C:\Users\gregorymoon\Documents\Work\DT\Mapstory\DTAutoDirectory\DTAutoDirectory\bin\Debug\DTAutoDirectory.pdb
+C:\Users\gregorymoon\Documents\Work\DT\Mapstory\DTAutoDirectory\DTAutoDirectory\obj\Debug\DTAutoDirectory.csprojResolveAssemblyReference.cache
+C:\Users\gregorymoon\Documents\Work\DT\Mapstory\DTAutoDirectory\DTAutoDirectory\obj\Debug\DTAutoDirectory.MainForm.resources
+C:\Users\gregorymoon\Documents\Work\DT\Mapstory\DTAutoDirectory\DTAutoDirectory\obj\Debug\DTAutoDirectory.Properties.Resources.resources
+C:\Users\gregorymoon\Documents\Work\DT\Mapstory\DTAutoDirectory\DTAutoDirectory\obj\Debug\DTAutoDirectory.csproj.GenerateResource.Cache
