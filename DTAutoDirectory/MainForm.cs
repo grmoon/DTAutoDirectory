@@ -106,20 +106,27 @@ namespace DTAutoDirectory
         private string checkConnection()
         {
             DateTime now = System.DateTime.Now;
-            foreach (DriveInfo drive in DriveInfo.GetDrives())
+            DriveInfo[] drives = DriveInfo.GetDrives();
+
+            for (int drive_idx = 0; drive_idx < drives.Length; drive_idx++)
             {
-                if (drive.VolumeLabel == "dtpub$")
+                try
                 {
-                    TimeSpan test = System.DateTime.Now - now;
-                    double secs = test.TotalSeconds;
-                    responseLabel.Text = secs.ToString();
-                    return drive.Name;
+                    DriveInfo drive = drives[drive_idx];
+                    if (drive.VolumeLabel == "dtpub$")
+                    {
+                        TimeSpan test = System.DateTime.Now - now;
+                        double secs = test.TotalSeconds;
+                        responseLabel.Text = secs.ToString();
+                        return drive.Name;
+                    }
                 }
+                catch (IOException e) { }
             }
 
             MessageBox.Show("Not connected to \\\\bijou.dt.asu.edu\\dtpub$\\projects\\Mapstory.\nPlease connect and try again.", "Not Connected");
 
-            
+       
             return String.Empty;
         }   //end checkConnection
 
